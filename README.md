@@ -2,6 +2,7 @@
 
 **Name:** Dosunmu Emmanuel Oladimeji
 **Matric No:** 251901062
+**Department:** Computer Science
 **University:** University of Lagos (UNILAG)
 
 ## Assignments
